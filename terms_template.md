@@ -106,3 +106,5 @@ Please let us know what you think of the Service, these Terms and, in general, G
 ## Questions & Contact Information
 
 Questions or comments about the Service may be directed to us at the email address support@galacticfiles.com.
+
+<sup>These terms of use and associated documents are available to you at https://github.com/galacticfls/template-terms-of-service under the [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) Creative Commons license.</sup>
