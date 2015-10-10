@@ -1,3 +1,6 @@
+
+[![GalacticFiles](https://galacticfiles.com/images/galacticfiles2.png)](https://galacticfiles.com)
+
 # GALACTICFILES.COM PRIVACY POLICY
 
 Last Revised: Oct 10 2015
