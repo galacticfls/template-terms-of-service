@@ -1,3 +1,6 @@
+
+[![GalacticFiles](https://galacticfiles.com/images/galacticfiles2.png)](https://galacticfiles.com)
+
 # GALACTICFILES.COM TERMS OF SERVICE
 
 Last Updated: Oct 10 2015
