@@ -25,9 +25,14 @@ If you are a copyright owner, or are authorized to act on behalf of one, or auth
 1. Deliver this Notice, with all items completed, to GalacticFiles.com's Designated Copyright Agent:
 
 Robert Gass
+
 3720 Gattis School Road, Suite 800
+
 Round Rock, TX 78664
 
+
 Phone: (512) 621-7794, 
+
 Fax: (512) 621-7795
+
 Email: support@galacticfiles.com
