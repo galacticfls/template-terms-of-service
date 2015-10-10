@@ -18,7 +18,7 @@ If you continue to use the Service after the revised Terms go into effect, then 
 
 ## Privacy Policy
 
-For information about how we collect and use information about users of the Service, please check out our privacy policy available at https://galacticfiles.com/privacy.html.
+For information about how we collect and use information about users of the Service, please check out our privacy policy available at [https://galacticfiles.com/privacy.html](https://galacticfiles.com/privacy.html).
 
 ## Third-Party Services
 
@@ -81,7 +81,7 @@ You agree to defend, indemnify and hold us harmless from and against any and all
 
 ## Copyright Complaints
 
-We take intellectual property rights seriously. In accordance with the Digital Millennium Copyright Act ("DMCA") and other applicable law, we have adopted a policy of terminating, in appropriate circumstances and, at our sole discretion, access to the service for users who are deemed to be repeat infringers. **[LINK TO FULL COPYRIGHT POLICY IF APPLICABLE.]**
+We take intellectual property rights seriously. In accordance with the Digital Millennium Copyright Act ("DMCA") and other applicable law, we have adopted a policy of terminating, in appropriate circumstances and, at our sole discretion, access to the service for users who are deemed to be repeat infringers. [https://galacticfiles.com/copyright.html](https://galacticfiles.com/copyright.html)
 
 ## Governing Law
 
@@ -107,4 +107,4 @@ Please let us know what you think of the Service, these Terms and, in general, G
 
 Questions or comments about the Service may be directed to us at the email address support@galacticfiles.com.
 
-<sup>These terms of use and associated documents are available to you at https://github.com/galacticfls/template-terms-of-service under the [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) Creative Commons license.</sup>
+<sup>These terms of use and associated documents are available to you at [GitHub](https://github.com/galacticfls/template-terms-of-service) under the [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) Creative Commons license.</sup>
